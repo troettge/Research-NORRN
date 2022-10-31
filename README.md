@@ -4,9 +4,10 @@ Welcome! This repository is used to manage the research module for the Norwegian
 
 Are you a collaborator? Then you are most likely looking for one of the task management boards.
 
-There are currently two boards:
+There are currently three boards:
 - A general board keeping track of high level [Objectives & Key Results](https://github.com/users/troettge/projects/2) (only to be edited by coordinator)
 - The task management board for the project on the [Norway Open Research Survey](https://github.com/users/troettge/projects/1/views/1)
+- A Miscellaneous board for issues that are not yet categorized into a project [Miscellaenous](https://github.com/users/troettge/projects/3/views/1)
 
 ### How to use the task management boards:
 
